@@ -19,7 +19,7 @@ NA. [nd] Combining census data and paleoecology to track the establishment and g
 
 ### Description of data files:
 
-- File S1. Historical population reports collected for seabird species nesting in Cape St. Mary’s Ecological Reserve, 1883-2018, provided by Dr. Sabina Wilhelm (Canadian Wildlife Service, Environment and Climate Change Canada, Newfoundland). A blank cell indicates that population counts were not collected for that year. Hover over each cell to view the citation associated with the census data.
+- File S1. Historical population reports collected for seabird species nesting in Cape St. Mary’s Ecological Reserve, 1883-2018, provided by the Canadian Wildlife Service, Environment and Climate Change Canada, Newfoundland. A blank cell indicates that population counts were not collected for that year. Hover over each cell to view the citation associated with the census data.
 
 - File S2. A table containing 210Pb dating profiles over depth of the impact core.
 
