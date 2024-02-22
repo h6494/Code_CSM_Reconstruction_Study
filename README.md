@@ -1,9 +1,7 @@
 ## Welcome!
 
 This repository contains code and data used in the following research: {Hidden for anonymous peer review}
-
-Read through the details of the analysis using the following page - https://h6494.github.io/Paleo_Analysis_Using_R/  
-Or parse through the original R files individually by cloning this repo onto your local computer
+You can parse through the original R files individually by cloning this repo onto your local computer
 
 ### Description of R files:
 
