@@ -26,14 +26,14 @@ You can parse through the original R files individually by cloning this repo ont
 
 ### Description of data files:
 
-**FileS1_ColonialSeabirdDatabase_WilhelmSI.csv** : Historical population reports collected for seabird species nesting in Cape St. Mary’s Ecological Reserve from 1883-2018. A blank cell indicates that population counts were not collected for that year.
+* **FileS1_ColonialSeabirdDatabase_WilhelmSI.csv** : Historical population reports collected for seabird species nesting in Cape St. Mary’s Ecological Reserve from 1883-2018. A blank cell indicates that population counts were not collected for that year.
 
-**FileS2_MonitoringData.csv** : Raw monitoring data from File S1 used to align population data to the proxies.
+* **FileS2_MonitoringData.csv** : Raw monitoring data from File S1 used to align population data to the proxies.
 
-**FileS3_Dating_CSM-IMP.csv** and File S4_Dating_CSM-REF.csv : Table containing 210Pb dating profiles over the depth of the impact core (CSM-IMP) and reference core (CSM-REF).
+* **FileS3_Dating_CSM-IMP.csv** and File S4_Dating_CSM-REF.csv : Table containing 210Pb dating profiles over the depth of the impact core (CSM-IMP) and reference core (CSM-REF).
 
-**FileS5_ProxyData_CSM-IMP.csv** and **FileS6_ProxyData_CSM-REF.csv** : Table containing the isotope, metal(loid), chlorophyll a, and diatom count data for the depths of the sediment core collected from the reference pond.
+* **FileS5_ProxyData_CSM-IMP.csv** and **FileS6_ProxyData_CSM-REF.csv** : Table containing the isotope, metal(loid), chlorophyll a, and diatom count data for the depths of the sediment core collected from the reference pond.
 
-**File S7_Metalloids_CSM-IMP.csv** and **File S8_Metalloids_CSM-REF.csv** : Table of all metal(loid)s analyzed for the impact core and reference core.
+* **File S7_Metalloids_CSM-IMP.csv** and **File S8_Metalloids_CSM-REF.csv** : Table of all metal(loid)s analyzed for the impact core and reference core.
 
-**FileS9_ZScores_CSM-IMP.csv** : Z-score data for the isotope, metal(loid)s, chlorophyll a, and diatom count for the depths of the sediment core collected from the impact pond.
+* **FileS9_ZScores_CSM-IMP.csv** : Z-score data for the isotope, metal(loid)s, chlorophyll a, and diatom count for the depths of the sediment core collected from the impact pond.
