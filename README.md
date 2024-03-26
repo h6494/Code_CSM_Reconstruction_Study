@@ -1,4 +1,4 @@
-**This repo will be deleted after the DAPR, and replaced with an identical Git repository hosted by the author.**
+**This repo is hosted by an anonymous account and will be deleted after the double-anonymous peer review process. It will be replaced with an identical Git repository hosted by the author.**
 
 __________________
 
